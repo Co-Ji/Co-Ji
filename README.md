@@ -17,7 +17,7 @@
   * 화상채팅 한국어 교육 서비스
   * 6주 동안 3명의 FE개발자, 3명의 BE개발자, 1명의 디자이너가 협업했습니다.
   * 서비스 홈페이지: https://friengls.kr
-  * Github: https://github.com/Co-Ji/friengls
+  * Github: https://github.com/jiaegong/Friengls.git
 
 - 마켓컬리 클론코딩
   * 상품 상세 페이지, 장바구니 페이지 뷰 작업 및 CRUD 기능 담당
