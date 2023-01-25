@@ -5,12 +5,20 @@
 
 부트캠프 항해99를 통해 React를 처음 배웠고, 프로젝트 중심의 학습을 경험했습니다.
 
-현재 구직 중에 있으며, React, JavaScript 관련 부족한 이론을 보충하려 노력하고 있습니다.
+현재는 투자 관련 IT회사의 프론트엔드 개발자로 근무하고 있으며, 
+
+React와 Typescript를 기반으로 한 프론트엔드 웹 개발에 참여하고 있습니다.
 
 ## Links
 - E-mail - sungji226@gmail.com
-- Blog - https://ji-coding.tistory.com
+<!-- - Blog - https://ji-coding.tistory.com -->
 - GitHub - https://github.com/Co-Ji
+
+## Service
+- 퀀터스
+  * 퀀트투자 및 자산배분과 관련해 개인이 전략을 저장하고 테스트해볼 수 있는 서비스를 제공
+  * 2023.01 정식버전 출시
+  * https://www.quantus.kr
 
 ## Project
 - 프랭글스 
